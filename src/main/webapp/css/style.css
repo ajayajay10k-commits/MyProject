@@ -766,3 +766,26 @@ a {
     background: #e7f9f8;
     color: #0ea5a4;
 }
+.hero {
+    min-height: 530px;
+    padding: 90px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:
+        linear-gradient(120deg, #f7f8ff 0%, #ffffff 55%, #f1f3ff 100%);
+}
+
+.hero-content {
+    max-width: 780px;
+    text-align: center;
+}
+
+.hero-content p {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.main-button {
+    margin-top: 30px;
+}

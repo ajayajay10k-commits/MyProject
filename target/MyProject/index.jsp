@@ -60,36 +60,7 @@
                 View My Assignments
             </a>
 
-        </div>
-
-
-        <div class="hero-panel">
-
-            <div class="panel-heading">
-                <span class="status-dot"></span>
-                Assignment Portal
-            </div>
-
-            <div class="panel-line"></div>
-
-            <div class="panel-item">
-                <strong>03</strong>
-                <span>Assignments</span>
-            </div>
-
-            <div class="panel-item">
-                <strong>05</strong>
-                <span>Web Technologies</span>
-            </div>
-
-            <div class="panel-item">
-                <strong>100%</strong>
-                <span>Student Work</span>
-            </div>
-
-        </div>
-
-    </section>
+        </div></section>
 
 
     <section class="assignments" id="assignments">
@@ -235,3 +206,4 @@
 
 </body>
 </html>
+
