@@ -1,4 +1,4 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -99,10 +99,18 @@
 <body>
 
 <header class="header">
-    
+    <div class="logo">
+        <span class="logo-icon">MP</span>
+        <div>
+            <h1>MY PROJECT</h1>
+            <p>Web Page Creation</p>
+        </div>
+    </div>
 
     <div class="student-info">
-        </div>
+        <div class="student-name">Ajay</div>
+        <div class="roll-number">Roll No: 902513</div>
+    </div>
 </header>
 
 <main class="assignment-page">
@@ -171,10 +179,8 @@
 </main>
 
 <footer>
-    <p>Â© 2026 My Project â€¢ Assignment 1</p>
+    <p>© 2026 My Project • Assignment 1</p>
 </footer>
 
 </body>
 </html>
-
-

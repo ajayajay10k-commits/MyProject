@@ -442,9 +442,7 @@
         </div>
 
         <div class="ajax-student">
-            <strong>Ajay</strong>
-            <span>Roll No: 902513</span>
-        </div>
+            </div>
 
     </header>
 
@@ -615,10 +613,11 @@
 
 
     <footer class="ajax-footer">
-        MY ASSIGNMENT | WEB PAGE CREATION | AJAY | 902513
+        MY ASSIGNMENT | WEB PAGE CREATION | ASSIGNMENT 03
     </footer>
 
 </div>
 
 </body>
 </html>
+

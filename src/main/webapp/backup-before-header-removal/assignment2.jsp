@@ -138,7 +138,13 @@
 <body>
 
 <header class="header">
-    
+    <div class="logo">
+        <span class="logo-icon">MP</span>
+        <div>
+            <h1>MY PROJECT</h1>
+            <p>Web Page Creation</p>
+        </div>
+    </div>
 
     <div class="student-info">
         </div>
@@ -249,5 +255,4 @@
 
 </body>
 </html>
-
 

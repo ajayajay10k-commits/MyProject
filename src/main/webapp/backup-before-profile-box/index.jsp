@@ -165,58 +165,22 @@
 
     </section>
 
-    
-    <section id="ajay-profile-card" style="
-        max-width: 440px;
-        margin: 30px auto 35px;
-        padding: 18px 24px;
-        border-radius: 16px;
-        background: linear-gradient(135deg, #eef2ff, #f5eaff);
-        border: 1px solid #d9d5ff;
-        box-shadow: 0 8px 24px rgba(48, 46, 120, 0.12);
-        text-align: center;
-        color: #25245a;
-        font-family: Arial, sans-serif;
-    ">
-        <div style="
-            display: inline-block;
-            padding: 6px 13px;
-            margin-bottom: 9px;
-            border-radius: 20px;
-            background: #e0e7ff;
-            color: #4338ca;
-            font-size: 11px;
-            font-weight: bold;
-            letter-spacing: 1px;
-        ">STUDENT PROFILE</div>
-
-        <h2 style="margin: 3px 0 12px; font-size: 22px; color: #312e81;">
-            Ajay
-        </h2>
-
-        <div style="
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 8px;
-        ">
-            <span style="padding: 7px 11px; background: #ffffff; border-radius: 9px; font-size: 13px;">
-                <strong>Roll No:</strong> 902513
-            </span>
-            <span style="padding: 7px 11px; background: #ffffff; border-radius: 9px; font-size: 13px;">
-                <strong>Department:</strong> AI &amp; DS
-            </span>
-            <span style="padding: 7px 11px; background: #ffffff; border-radius: 9px; font-size: 13px;">
-                <strong>Year:</strong> Second Year
-            </span>
-        </div>
-    </section>
 </main>
+
+
+<footer class="footer">
+
+    <div>
+        <strong>MY ASSIGNMENT</strong>
+        <span>Web Page Creation</span>
+    </div>
+
+    
+
+</footer>
 
 </body>
 </html>
-
-
 
 
 

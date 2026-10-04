@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <students>
 
     <student>
         <registerNumber>902513</registerNumber>
-        <name>Ajay</name>
+        <name>Student</name>
         <department>AI &amp; Data Science</department>
         <year>III Year</year>
-        <email>ajay@example.com</email>
+        <email>student@example.com</email>
     </student>
 
     <student>
@@ -35,3 +35,4 @@
     </student>
 
 </students>
+
